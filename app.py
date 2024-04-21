@@ -2,10 +2,6 @@ import joblib
 import streamlit as st 
 import numpy as np 
 import os
-
-import matplotlib.pyplot as plt
-from sklearn.discriminant_analysis import LinearDiscriminantAnalysis
-from sklearn.decomposition import PCA
 from PIL import Image
 import pandas as pd
 
